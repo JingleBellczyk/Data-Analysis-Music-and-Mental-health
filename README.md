@@ -1,2 +1,8 @@
 # Data-Analysis-Music-and-Mental-health
-Analysys and modelling survey's results about music habits and mental health
+Analysis and modelling survey's results about music habits and mental health.
+
+Libraries used in the analysys:
+- pandas
+- sklearn
+- matplotlib
+- numpy
